@@ -1,0 +1,16 @@
+# What does this code print out?
+import numpy as np
+
+my_dict = {
+    "to do":{ "easy":['watch TV','sleep','listen to music'],
+             "medium difficulty":['make bread','read a book'],
+             "hard":['do my homework','clean my room','co for run']},
+    "to eat":{ "sweet":['eat chocolate','eat cookies'],
+              "savory":['eat cheese','eat crackers','eat carrots']}
+}
+
+for k in my_dict.keys():
+    number1 = np.random.randint(len(my_dict[k].keys()))
+    sub_key = list(my_dict[k].keys())[number1]
+    number2 = np.random.randint(len(my_dict[k][sub_key]))
+    print(f'Today I want something {sub_key} {k}. I will {my_dict[k][sub_key][number2]}')
