@@ -1,0 +1,53 @@
+#Q Three of these animals hibernate. Which one does not?
+^ Sloth
+A Mouse
+B Sloth
+C Frog
+D Snake
+
+#Q All of these animals are omnivorous except one.
+^ Snail
+A Fox
+B Mouse
+C Opossum
+D Snail
+
+#Q Three of these Latin names are names of bears. Which is the odd one?
+^ Felis silvestris catus
+A Melursus ursinus
+B Helarctos malayanus
+C Ursus minimus
+D Felis silvestris catus
+
+#Q These are typical Australian animals except one.
+^ Sloth
+A Platypus
+B Dingo
+C Echidna
+D Sloth
+
+#Q Representatives of three of these species produce venom of their own. Which is the odd species?
+^ Mosquitos
+A Lizards
+B Scorpions
+C Frogs
+D Mosquitos
+
+#Q Three of these species shed their skin. Which one does not?
+^ Penguins
+A Penguins
+B Snakes
+C Insects
+D Crustaceans
+
+#Q All dogs, cats and birds are colorblind.
+^ False
+A True
+B False
+
+#Q All of these animals have large ears (relative to their size) except one.
+^ Polar bears
+A Polar bears
+B Foxes
+C Bats
+D Elephants
